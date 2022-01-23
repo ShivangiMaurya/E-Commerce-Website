@@ -1,6 +1,6 @@
 import React from 'react'
 import { NavLink } from 'react-router-dom';
-import DATA from '../Data'
+import DATA from '../Data';
 
 const Product = () => {
 
